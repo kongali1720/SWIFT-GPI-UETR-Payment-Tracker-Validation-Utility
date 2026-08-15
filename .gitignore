@@ -38,3 +38,8 @@ Thumbs.db
 build/
 dist/
 *.egg-info/
+
+# SQLite databases
+data/*.db
+data/*.sqlite
+data/*.sqlite3
