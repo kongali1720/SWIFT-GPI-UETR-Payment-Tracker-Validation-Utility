@@ -1,0 +1,3 @@
+"""
+Payment analytics package.
+"""
